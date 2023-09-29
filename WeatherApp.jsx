@@ -1,13 +1,13 @@
 import React from 'react'
-import './WeatherApp.css';
-import search_icons from '../Asset/search.png';
-import cloud_icons from '../Asset/cloud.png';
-import clear_icons from '../Asset/clear.png';
-import drizzel_icons from '../Asset/drizzle.png';
-import humadity_icons from '../Asset/humidity.png';
-import snow_icons from '../Asset/snow.png';
-import rain_icon from '../Asset/rain.png';
-import wind_icons from '../Asset/wind.png';
+import '/WeatherApp.css';
+import search_icons from '/search.png';
+import cloud_icons from '/cloud.png';
+import clear_icons from '/clear.png';
+import drizzel_icons from '/drizzle.png';
+import humadity_icons from '/humidity.png';
+import snow_icons from '/snow.png';
+import rain_icon from '/rain.png';
+import wind_icons from '/wind.png';
 import { useState } from 'react';
 const WeatherApp = () => {
 
