@@ -1,6 +1,6 @@
 
 import './App.css';
-import WeatherApp from './Component/WeatherApp/WeatherApp';
+import WeatherApp from '/WeatherApp';
 function App() {
   return (<>
     <div className="App">
